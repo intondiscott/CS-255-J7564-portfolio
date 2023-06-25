@@ -1,4 +1,5 @@
-<h1>CS-255-J7564-portfolio</h1>
+<h1 align="center"> 📑 CS-255-J7564-portfolio 📕</h1>
+<img  src="https://github.com/intondiscott/CS-255-J7564-portfolio/assets/73749875/dfc6f562-1545-4a0d-b7c8-3759aba6cdce" width="100%"/>
 <h2>Q: Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</h2>
 <p>A: DriverPass is a program that helps teens prepare for their driver's test. Currently, no online tools aid in teens passing as there is a 65% fail rate with teens attempting to pass their driving test. </p>
 <hr size="3">
